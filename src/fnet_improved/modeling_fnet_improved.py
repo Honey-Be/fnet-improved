@@ -51,7 +51,7 @@ from transformers.utils import (
     logging,
     replace_return_docstrings,
 )
-from .configuration_fnet import FNetConfig
+from .configuration_fnet_improved import FNetConfig
 
 
 logger = logging.get_logger(__name__)

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/fnet_improved/__init__.py
+src/fnet_improved/configuration_fnet_improved.py
+src/fnet_improved/modeling_fnet_improved.py
+src/fnet_improved.egg-info/PKG-INFO
+src/fnet_improved.egg-info/SOURCES.txt
+src/fnet_improved.egg-info/dependency_links.txt
+src/fnet_improved.egg-info/top_level.txt
